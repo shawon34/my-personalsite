@@ -1,0 +1,75 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    color: tomato;
+}
+.doing-half{
+    width: 35%;
+    float: left;
+    margin-top: 30;
+    
+   
+    
+}
+.doing-half img{
+    width: 80%;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+}
+section{
+    height: 500px;
+}
+#one{
+    margin-left: 23%;
+}
+#hire{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+#two{
+    margin-left: 18%;
+}
+.middle-banner{
+    background-image: url(images/biography-bg.png);
+}
+#cv{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.latest{
+    text-align: center;
+    color: blackś;
+    font-size: 30px;
+}
+.latest-images{
+    width: 30%;
+    float: left;
+    margin-left:29px;
+}
+.latest-images img{
+    width: 100%;
+}.footer{
+    
+    text-align: center;
+}
+.last{
+ 
+    background-color: crimson;
+    padding: 10px 40px;
+    width: 50%;
+    margin-left: 290px;
+    text-align: center;
+    border-radius: 9px;
+}
+#copy-right{
+    text-align: center;
+    
+}
