@@ -71,5 +71,8 @@ section{
 }
 #copy-right{
     text-align: center;
-    
+
+}
+.last-bg{
+    background-image: url(images/footer-bg.png);
 }
